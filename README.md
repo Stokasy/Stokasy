@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS" width="50px" style="padding-right: 10px;"/>
 </div>
 
-<hr>
+#
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stokasy&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/>
