@@ -1,9 +1,8 @@
 <div align="center">
-<h1>🟪 Stokasy 🟪</h1>
+<h1>🟣 Stokasy 🟣</h1>
   
 **`🖥 Delving into software/web development 🖥`**
 </div>
-
 
 <p align="center">
   Hi there! I'm Stokasy, a student interested in programming in Python, HTML and CSS. I'm quite new to all of this but I have always had an interest in creating programs and tools that make day-to-day life easier, this page shows all the stuff I have worked on and am working on.
@@ -20,6 +19,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS" width="50px" style="padding-right: 10px;"/>
 </div>
 
+#
+•  🔭 I'm working on my website now. It isn't currently available but it's [repository](https://github.com/Stokasy/portfolio-site) is public. <br>
+•  🌱 Currently learning more about HTML, CSS and JavaScript. <br>
+•  📫 You can contact me through my [Twitter](twitter.com/stokasy) and email: stokasy@tutanota.com. <br>
+•  💬 Don't be shy on sending me any ideas or feedback! <br>
+•  🐦 <b>ABOUT TWITTER:</b> It is currently banned in Brazil so I can't interact with anyone there now.
 #
 
 <div align="center">
