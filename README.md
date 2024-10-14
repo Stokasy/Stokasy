@@ -24,7 +24,6 @@
 -  🌱 Currently learning more about HTML, CSS and JavaScript.
 -  📫 You can contact me through my [Twitter](https://twitter.com/stokasy) and email: stokasy@tutanota.com.
 -  💬 Don't be shy on sending me any ideas or feedback!
--  🐦 <b>ABOUT TWITTER:</b> It is currently banned in Brazil so I can't interact with anyone there now.
 #
 
 <div align="center">
